@@ -1,6 +1,6 @@
 # gdb-test
 
-I feel quite good, finaly, I begin to learn debug programm.
+I feel quite good, finaly, I begin to learn how to debug programm.
 
 ```bash
 ➜  ~ gdb -v
